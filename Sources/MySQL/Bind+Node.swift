@@ -8,7 +8,7 @@
     import CMySQLMac
 #endif
 import Core
-import JSON
+import JSONNode
 
 extension Bind {
     /**
