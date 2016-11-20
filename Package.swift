@@ -13,6 +13,6 @@ let package = Package(
         .Package(url: "https://github.com/vapor/core.git", majorVersion: 1),
 
         // JSON parsing and serialization for storing arrays and objects in MySQL
-        .Package(url: "https://github.com/osjup/JSONNode.git", majorVersion: 0)
+        .Package(url: "https://github.com/dmcyk/JSONNode.git", majorVersion: 0)
     ]
 )
