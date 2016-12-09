@@ -1,3 +1,6 @@
+# Fork
+Replacing **Vapor**'s JSON with [vdka/JSON](https://github.com/vdka/JSON)
+
 # MySQL for Swift
 
 ![Swift](http://img.shields.io/badge/swift-3.0-brightgreen.svg)
